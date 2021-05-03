@@ -1,0 +1,11 @@
+Start - 23:54 sunday 02-05-2021
+
+[+]  Create NPM project
+Create Index.html, style.css, client.js
+install dependecies
+create express server(Server.js)
+do frontend parts
+Install socket.io, setup socket.io in server.js and client client.js
+client sedn msg logic in client js
+recieve msg on server and broadcast to all clients
+Recieve message on client and display it. scroll to bottom etc...
